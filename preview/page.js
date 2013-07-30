@@ -6,3 +6,4 @@ $('#userId').text(context.userId);
  $('#container').on('click', function(){
   BL.displayApp(APP.appId);
 });
+new
